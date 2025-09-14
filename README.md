@@ -15,17 +15,17 @@ This repository contains my latest resume (PDF format) for quick access and shar
 
 🔹 Resume
 
-👉 Click here to view/download my Resume (PDF)
+👉 Click here to view/download my Resume [https://github.com/PratapSakthivel/Pratap-S-Resume/blob/main/UPDATED%20RESUME.pdf](url)
 
 🔹 Online Profiles
 
-🔗 GitHub
+🔗 GitHub [https://github.com/PratapSakthivel](url)
 
-💼 LinkedIn
+💼 LinkedIn [https://www.linkedin.com/in/pratap-s-587b0b342/](url)
 
-🏆 LeetCode
+🏆 LeetCode [https://leetcode.com/u/3LBnJZthaY/](url)
 
-🔹 Contact
+🔹 Contact 8248958308
 
 📍 Tiruppur, Tamil Nadu, India
 📧 pratapssakthivel@gmail.com
